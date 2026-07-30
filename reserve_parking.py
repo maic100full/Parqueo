@@ -45,7 +45,7 @@ DIAS_DESEADOS = {2,3,4}
 # primero; si no tiene cupo, prueba el siguiente, y asi sucesivamente.
 PRIORITY_LOT_IDS = [2, 10, 9]
 
-VEHICLE_ID = 16597
+VEHICLE_ID = 15930
 REASON = "Jornada Laboral"
 HORA_ENTRADA = "08:00:00"       # hora de entrada que se manda en la reserva
 HORA_ENTRADA_CORTA = "08:00"    # mismo valor pero formato HH:MM para el chequeo de disponibilidad

@@ -43,7 +43,7 @@ DIAS_DESEADOS = {2,3,4}
 
 # Parking lots preferidos, EN ORDEN DE PRIORIDAD. El script prueba el
 # primero; si no tiene cupo, prueba el siguiente, y asi sucesivamente.
-PRIORITY_LOT_IDS = [2, 10, 9,3]
+PRIORITY_LOT_IDS = [2, 10, 9]
 
 VEHICLE_ID = 15930
 REASON = "Jornada Laboral"

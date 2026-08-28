@@ -53,7 +53,7 @@ RESERVATIONS_URL = f"{BASE_URL}/reservations"
 DIAS_DESEADOS = {2, 3,4}
 
 # Parking lots preferidos, EN ORDEN DE PRIORIDAD.
-PRIORITY_LOT_IDS = [9, 10, 2]
+PRIORITY_LOT_IDS = [1,9, 10, 2]
 
 VEHICLE_ID = 15930
 REASON = "Jornada Laboral"
